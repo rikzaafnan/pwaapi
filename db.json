@@ -1,0 +1,24 @@
+{
+"product" : [
+    {"id":1,"name":"Waterbuck, defassa","category":"Red"},
+    {"id":2,"name":"White rhinoceros","category":"Green"},
+    {"id":3,"name":"Magpie, black-backed","category":"Teal"},
+    {"id":4,"name":"Leopard, indian","category":"Purple"},
+    {"id":5,"name":"Bleu, red-cheeked cordon","category":"Indigo"},
+    {"id":6,"name":"Brazilian tapir","category":"Pink"},
+    {"id":7,"name":"Roadrunner, greater","category":"Indigo"},
+    {"id":8,"name":"Crab-eating fox","category":"Orange"},
+    {"id":9,"name":"Gazelle, thomson's","category":"Crimson"},
+    {"id":10,"name":"Capuchin, weeper","category":"Purple"},
+    {"id":11,"name":"Otter, oriental short-clawed","category":"Orange"},
+    {"id":12,"name":"African black crake","category":"Green"},
+    {"id":13,"name":"Mongoose, yellow","category":"Blue"},
+    {"id":14,"name":"Owl, great horned","category":"Maroon"},
+    {"id":15,"name":"Bison, american","category":"Green"},
+    {"id":16,"name":"Sheep, american bighorn","category":"Blue"},
+    {"id":17,"name":"Yellow-rumped siskin","category":"Teal"},
+    {"id":18,"name":"Great horned owl","category":"Indigo"},
+    {"id":19,"name":"Blue wildebeest","category":"Pink"},
+    {"id":20,"name":"Ferret, black-footed","category":"Green"}
+  ]
+}
