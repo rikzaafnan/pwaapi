@@ -1,5 +1,5 @@
 {
-"product" : [
+"products" : [
     {"id":1,"name":"Waterbuck, defassa","category":"Red"},
     {"id":2,"name":"White rhinoceros","category":"Green"},
     {"id":3,"name":"Magpie, black-backed","category":"Teal"},
